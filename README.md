@@ -9,3 +9,7 @@ There are 3 files to process under align.py file <br>
 2. Need to give the subtitle file with -s arg like **-s movie_subtitle.srt** 
 3. It is optional to give name of final adjusted subtitle file a name, by default it gives **new subtitles.srt**. If needed we can name it with **-o file_name_here.srt**
 ---
+
+~~~bash
+python align.py -m example_name.mkv -s subtitle.srt -o output.srt
+~~~
