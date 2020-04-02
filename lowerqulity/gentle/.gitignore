@@ -1,0 +1,15 @@
+PROTO_LANGDIR/
+data/
+ext/standard_kaldi
+ext/mkgraph
+ext/*-test
+ext/*.o
+ext/.depend.mk
+*.pyc
+*.swp
+*~
+webdata/
+gentle.egg-info/
+exp/
+ext/k3
+ext/m3
