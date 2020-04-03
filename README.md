@@ -24,4 +24,4 @@ python3 align.py -m example_name.mkv -s subtitle.srt -o output.srt
 
 ### License & Copyright 
 
-licensed under [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE).
