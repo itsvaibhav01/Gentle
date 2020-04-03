@@ -19,3 +19,9 @@ python3 align.py -m example_name.mkv -s subtitle.srt -o output.srt
 ### Installation
 1. Get the dockercontainer of Gentle and keep it running (instructions inside gentle folder)
 2. Install all resources by installing resources.
+
+---
+
+### License & Copyright 
+
+licensed under [MIT License](LICENSE).
