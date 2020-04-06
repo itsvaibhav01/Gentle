@@ -1,4 +1,4 @@
-# Gentle -  a movie subtitle allignment tool using deep learning application gentle
+# Gentle -  a movie subtitle alignment tool using deep learning application gentle
 ---
 <b> http://lowerquality.com/gentle/ </b>
 
